@@ -12,7 +12,7 @@ body{font-family: 'Montserrat', sans-serif;
     }
 #title
 {
-background-image: linear-gradient(to bottom left,blue,aqua);
+background-image: linear-gradient(to bottom left,rgb(46, 46, 53),rgb(91, 138, 138));
 }
 
 h1{
@@ -65,7 +65,7 @@ p{
     padding: 5%;
 }
 .icon{
-    color: #1698ba ;
+    color: #438393 ;
     margin-bottom: 1rem;
 }
 
@@ -111,7 +111,7 @@ p{
     text-align: center;
     font-size: 2rem;
     padding: 5% 20% 1%;
-    background-color: rgb(13, 127, 199);
+    background-color: rgb(91, 127, 127);
 }
 
 .cta-title
@@ -153,4 +153,4 @@ p{
     }
 }
 .press-img-verge{width: 10%;}
-#mid{background-image: linear-gradient(to top left,rgb(30, 116, 245),rgb(74, 176, 249));}
+#mid{background-image: linear-gradient(to top left,rgb(96, 117, 148),rgb(18, 70, 107));}
